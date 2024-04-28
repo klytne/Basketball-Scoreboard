@@ -10,7 +10,7 @@ A basic website for scoring a basketball game between two teams.
 
 <h2>Links</h2>
 <ul>
-  <li><a href="#">Live</a></li>
+  <li><a href="https://kly-basketball-scoreboard.netlify.app/" target="_blank">Live</a></li>
 </ul>
 
 <h2>My Process</h2>
